@@ -14,6 +14,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0704-binary-search](https://github.com/Kartik-bhasker/Leetcode/tree/master/0704-binary-search) |
 | [0989-add-to-array-form-of-integer](https://github.com/Kartik-bhasker/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Kartik-bhasker/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/Kartik-bhasker/Leetcode/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
