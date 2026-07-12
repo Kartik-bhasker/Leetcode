@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Kartik-bhasker/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Kartik-bhasker/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Kartik-bhasker/Leetcode/tree/master/0162-find-peak-element) |
+| [0410-split-array-largest-sum](https://github.com/Kartik-bhasker/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/Kartik-bhasker/Leetcode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Kartik-bhasker/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Kartik-bhasker/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Kartik-bhasker/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Kartik-bhasker/Leetcode/tree/master/0162-find-peak-element) |
 | [0367-valid-perfect-square](https://github.com/Kartik-bhasker/Leetcode/tree/master/0367-valid-perfect-square) |
+| [0410-split-array-largest-sum](https://github.com/Kartik-bhasker/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/Kartik-bhasker/Leetcode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Kartik-bhasker/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Kartik-bhasker/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -67,9 +69,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/Kartik-bhasker/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/Kartik-bhasker/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Enumeration
 |  |
 | ------- |
 | [2951-find-the-peaks](https://github.com/Kartik-bhasker/Leetcode/tree/master/2951-find-the-peaks) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/Kartik-bhasker/Leetcode/tree/master/0410-split-array-largest-sum) |
+## Greedy
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/Kartik-bhasker/Leetcode/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
