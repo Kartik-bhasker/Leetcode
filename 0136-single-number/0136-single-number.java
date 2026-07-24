@@ -1,17 +1,18 @@
 class Solution {
     public int singleNumber(int[] nums) {
-        int count=0;
+        HashSet<Integer> set=new HashSet<>();
+        int ans=-1;
         for(int i=0;i<nums.length;i++){
-            count=0;
-            for(int j=0;j<nums.length;j++){
-                if(nums[i]==nums[j]){
-                    count++;
-                }
+            if(set.contains(nums[i])){
+                set.remove(nums[i]);
             }
-            if(count==1){
-                return nums[i];
+            else if(!set.contains(nums[i])){
+                set.add(nums[i]);
             }
-            
-        }return -1;
+        }
+        for(int num: set){
+            ans=num;
+        }
+        return ans;
     }
 }
