@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Kartik-bhasker/Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Kartik-bhasker/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3536-maximum-product-of-two-digits](https://github.com/Kartik-bhasker/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
+| [3895-count-digit-appearances](https://github.com/Kartik-bhasker/Leetcode/tree/master/3895-count-digit-appearances) |
 | [3945-digit-frequency-score](https://github.com/Kartik-bhasker/Leetcode/tree/master/3945-digit-frequency-score) |
 ## Array
 |  |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2951-find-the-peaks](https://github.com/Kartik-bhasker/Leetcode/tree/master/2951-find-the-peaks) |
 | [3467-transform-array-by-parity](https://github.com/Kartik-bhasker/Leetcode/tree/master/3467-transform-array-by-parity) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Kartik-bhasker/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3895-count-digit-appearances](https://github.com/Kartik-bhasker/Leetcode/tree/master/3895-count-digit-appearances) |
 | [3925-concatenate-array-with-reverse](https://github.com/Kartik-bhasker/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Binary Search
 |  |
