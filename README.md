@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Kartik-bhasker/Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Kartik-bhasker/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3536-maximum-product-of-two-digits](https://github.com/Kartik-bhasker/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
+| [3945-digit-frequency-score](https://github.com/Kartik-bhasker/Leetcode/tree/master/3945-digit-frequency-score) |
 ## Array
 |  |
 | ------- |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/Kartik-bhasker/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/Kartik-bhasker/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Kartik-bhasker/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
+| [3945-digit-frequency-score](https://github.com/Kartik-bhasker/Leetcode/tree/master/3945-digit-frequency-score) |
 ## Matrix
 |  |
 | ------- |
