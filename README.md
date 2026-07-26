@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Kartik-bhasker/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Kartik-bhasker/Leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Kartik-bhasker/Leetcode/tree/master/0367-valid-perfect-square) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Kartik-bhasker/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0989-add-to-array-form-of-integer](https://github.com/Kartik-bhasker/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Kartik-bhasker/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Kartik-bhasker/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Kartik-bhasker/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Kartik-bhasker/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0575-distribute-candies](https://github.com/Kartik-bhasker/Leetcode/tree/master/0575-distribute-candies) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Kartik-bhasker/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Kartik-bhasker/Leetcode/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/Kartik-bhasker/Leetcode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Kartik-bhasker/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Kartik-bhasker/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Kartik-bhasker/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Kartik-bhasker/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Kartik-bhasker/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Kartik-bhasker/Leetcode/tree/master/0645-set-mismatch) |
 | [0905-sort-array-by-parity](https://github.com/Kartik-bhasker/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Kartik-bhasker/Leetcode/tree/master/0912-sort-an-array) |
