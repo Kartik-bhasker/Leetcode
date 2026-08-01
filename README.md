@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Kartik-bhasker/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Kartik-bhasker/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Kartik-bhasker/Leetcode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Kartik-bhasker/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/Kartik-bhasker/Leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Kartik-bhasker/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Kartik-bhasker/Leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Kartik-bhasker/Leetcode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Kartik-bhasker/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Kartik-bhasker/Leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1920-build-array-from-permutation](https://github.com/Kartik-bhasker/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Kartik-bhasker/Leetcode/tree/master/1929-concatenation-of-array) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Kartik-bhasker/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Kartik-bhasker/Leetcode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Kartik-bhasker/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Kartik-bhasker/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Kartik-bhasker/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Kartik-bhasker/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
