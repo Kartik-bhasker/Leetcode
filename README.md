@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Kartik-bhasker/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Kartik-bhasker/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Kartik-bhasker/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/Kartik-bhasker/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Kartik-bhasker/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0575-distribute-candies](https://github.com/Kartik-bhasker/Leetcode/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kartik-bhasker/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Kartik-bhasker/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Kartik-bhasker/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Kartik-bhasker/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/Kartik-bhasker/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/Kartik-bhasker/Leetcode/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/Kartik-bhasker/Leetcode/tree/master/0645-set-mismatch) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Kartik-bhasker/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -329,4 +331,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Kartik-bhasker/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Kartik-bhasker/Leetcode/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Kartik-bhasker/Leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
