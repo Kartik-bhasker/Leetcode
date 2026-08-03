@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Kartik-bhasker/Leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Kartik-bhasker/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kartik-bhasker/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/Kartik-bhasker/Leetcode/tree/master/0877-stone-game) |
 | [0989-add-to-array-form-of-integer](https://github.com/Kartik-bhasker/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Kartik-bhasker/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Kartik-bhasker/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Kartik-bhasker/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Kartik-bhasker/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Kartik-bhasker/Leetcode/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/Kartik-bhasker/Leetcode/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/Kartik-bhasker/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Kartik-bhasker/Leetcode/tree/master/0912-sort-an-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Kartik-bhasker/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Kartik-bhasker/Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kartik-bhasker/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0410-split-array-largest-sum](https://github.com/Kartik-bhasker/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0877-stone-game](https://github.com/Kartik-bhasker/Leetcode/tree/master/0877-stone-game) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Kartik-bhasker/Leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Greedy
 |  |
@@ -342,4 +345,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Kartik-bhasker/Leetcode/tree/master/0496-next-greater-element-i) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Kartik-bhasker/Leetcode/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Kartik-bhasker/Leetcode/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Kartik-bhasker/Leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
