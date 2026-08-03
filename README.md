@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Kartik-bhasker/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Kartik-bhasker/Leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Kartik-bhasker/Leetcode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Kartik-bhasker/Leetcode/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Kartik-bhasker/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/Kartik-bhasker/Leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Kartik-bhasker/Leetcode/tree/master/0268-missing-number) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Kartik-bhasker/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Kartik-bhasker/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Kartik-bhasker/Leetcode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Kartik-bhasker/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Kartik-bhasker/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Kartik-bhasker/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Kartik-bhasker/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Kartik-bhasker/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Kartik-bhasker/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Kartik-bhasker/Leetcode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Kartik-bhasker/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Kartik-bhasker/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Kartik-bhasker/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Kartik-bhasker/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -267,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Kartik-bhasker/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Kartik-bhasker/Leetcode/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Kartik-bhasker/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0912-sort-an-array](https://github.com/Kartik-bhasker/Leetcode/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kartik-bhasker/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -359,4 +363,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Kartik-bhasker/Leetcode/tree/master/0877-stone-game) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Kartik-bhasker/Leetcode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
