@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Kartik-bhasker/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Kartik-bhasker/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1512-number-of-good-pairs](https://github.com/Kartik-bhasker/Leetcode/tree/master/1512-number-of-good-pairs) |
+| [1528-shuffle-string](https://github.com/Kartik-bhasker/Leetcode/tree/master/1528-shuffle-string) |
 | [1539-kth-missing-positive-number](https://github.com/Kartik-bhasker/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1550-three-consecutive-odds](https://github.com/Kartik-bhasker/Leetcode/tree/master/1550-three-consecutive-odds) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Kartik-bhasker/Leetcode/tree/master/1552-magnetic-force-between-two-balls) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Kartik-bhasker/Leetcode/tree/master/0125-valid-palindrome) |
 | [0387-first-unique-character-in-a-string](https://github.com/Kartik-bhasker/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1108-defanging-an-ip-address](https://github.com/Kartik-bhasker/Leetcode/tree/master/1108-defanging-an-ip-address) |
+| [1528-shuffle-string](https://github.com/Kartik-bhasker/Leetcode/tree/master/1528-shuffle-string) |
 | [1773-count-items-matching-a-rule](https://github.com/Kartik-bhasker/Leetcode/tree/master/1773-count-items-matching-a-rule) |
 | [1903-largest-odd-number-in-string](https://github.com/Kartik-bhasker/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Kartik-bhasker/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
