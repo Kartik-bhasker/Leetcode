@@ -323,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Kartik-bhasker/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1108-defanging-an-ip-address](https://github.com/Kartik-bhasker/Leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/Kartik-bhasker/Leetcode/tree/master/1528-shuffle-string) |
+| [1678-goal-parser-interpretation](https://github.com/Kartik-bhasker/Leetcode/tree/master/1678-goal-parser-interpretation) |
 | [1773-count-items-matching-a-rule](https://github.com/Kartik-bhasker/Leetcode/tree/master/1773-count-items-matching-a-rule) |
 | [1903-largest-odd-number-in-string](https://github.com/Kartik-bhasker/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Kartik-bhasker/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
