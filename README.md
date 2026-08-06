@@ -294,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/Kartik-bhasker/Leetcode/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kartik-bhasker/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/Kartik-bhasker/Leetcode/tree/master/1512-number-of-good-pairs) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/Kartik-bhasker/Leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1748-sum-of-unique-elements](https://github.com/Kartik-bhasker/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [3467-transform-array-by-parity](https://github.com/Kartik-bhasker/Leetcode/tree/master/3467-transform-array-by-parity) |
 ## Two Pointers
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/Kartik-bhasker/Leetcode/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Kartik-bhasker/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/Kartik-bhasker/Leetcode/tree/master/1678-goal-parser-interpretation) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/Kartik-bhasker/Leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1773-count-items-matching-a-rule](https://github.com/Kartik-bhasker/Leetcode/tree/master/1773-count-items-matching-a-rule) |
 | [1903-largest-odd-number-in-string](https://github.com/Kartik-bhasker/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Kartik-bhasker/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
