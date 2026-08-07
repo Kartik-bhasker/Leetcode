@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Kartik-bhasker/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/Kartik-bhasker/Leetcode/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/Kartik-bhasker/Leetcode/tree/master/0645-set-mismatch) |
+| [0771-jewels-and-stones](https://github.com/Kartik-bhasker/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Kartik-bhasker/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Kartik-bhasker/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kartik-bhasker/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Kartik-bhasker/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Kartik-bhasker/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0709-to-lower-case](https://github.com/Kartik-bhasker/Leetcode/tree/master/0709-to-lower-case) |
+| [0771-jewels-and-stones](https://github.com/Kartik-bhasker/Leetcode/tree/master/0771-jewels-and-stones) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Kartik-bhasker/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/Kartik-bhasker/Leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/Kartik-bhasker/Leetcode/tree/master/1528-shuffle-string) |
