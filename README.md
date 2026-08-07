@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Kartik-bhasker/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/Kartik-bhasker/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0877-stone-game](https://github.com/Kartik-bhasker/Leetcode/tree/master/0877-stone-game) |
+| [1668-maximum-repeating-substring](https://github.com/Kartik-bhasker/Leetcode/tree/master/1668-maximum-repeating-substring) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Kartik-bhasker/Leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Greedy
 |  |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/Kartik-bhasker/Leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/Kartik-bhasker/Leetcode/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Kartik-bhasker/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1668-maximum-repeating-substring](https://github.com/Kartik-bhasker/Leetcode/tree/master/1668-maximum-repeating-substring) |
 | [1678-goal-parser-interpretation](https://github.com/Kartik-bhasker/Leetcode/tree/master/1678-goal-parser-interpretation) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Kartik-bhasker/Leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1773-count-items-matching-a-rule](https://github.com/Kartik-bhasker/Leetcode/tree/master/1773-count-items-matching-a-rule) |
@@ -437,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kartik-bhasker/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1668-maximum-repeating-substring](https://github.com/Kartik-bhasker/Leetcode/tree/master/1668-maximum-repeating-substring) |
 ## Z Algorithm
 |  |
 | ------- |
