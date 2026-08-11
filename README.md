@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1952-three-divisors](https://github.com/Kartik-bhasker/Leetcode/tree/master/1952-three-divisors) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Kartik-bhasker/Leetcode/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2413-smallest-even-multiple](https://github.com/Kartik-bhasker/Leetcode/tree/master/2413-smallest-even-multiple) |
+| [2427-number-of-common-factors](https://github.com/Kartik-bhasker/Leetcode/tree/master/2427-number-of-common-factors) |
 | [2469-convert-the-temperature](https://github.com/Kartik-bhasker/Leetcode/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Kartik-bhasker/Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Kartik-bhasker/Leetcode/tree/master/2769-find-the-maximum-achievable-number) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/Kartik-bhasker/Leetcode/tree/master/1952-three-divisors) |
+| [2427-number-of-common-factors](https://github.com/Kartik-bhasker/Leetcode/tree/master/2427-number-of-common-factors) |
 | [2951-find-the-peaks](https://github.com/Kartik-bhasker/Leetcode/tree/master/2951-find-the-peaks) |
 ## Dynamic Programming
 |  |
@@ -510,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1952-three-divisors](https://github.com/Kartik-bhasker/Leetcode/tree/master/1952-three-divisors) |
 | [2413-smallest-even-multiple](https://github.com/Kartik-bhasker/Leetcode/tree/master/2413-smallest-even-multiple) |
+| [2427-number-of-common-factors](https://github.com/Kartik-bhasker/Leetcode/tree/master/2427-number-of-common-factors) |
 ## Prime Factorization
 |  |
 | ------- |
@@ -524,4 +527,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Kartik-bhasker/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Kartik-bhasker/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Kartik-bhasker/Leetcode/tree/master/0342-power-of-four) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/Kartik-bhasker/Leetcode/tree/master/2427-number-of-common-factors) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/Kartik-bhasker/Leetcode/tree/master/2427-number-of-common-factors) |
 <!---LeetCode Topics End-->
