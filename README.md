@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Kartik-bhasker/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Kartik-bhasker/Leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Kartik-bhasker/Leetcode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Kartik-bhasker/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Kartik-bhasker/Leetcode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Kartik-bhasker/Leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Kartik-bhasker/Leetcode/tree/master/0268-missing-number) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Kartik-bhasker/Leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Kartik-bhasker/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Kartik-bhasker/Leetcode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Kartik-bhasker/Leetcode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Kartik-bhasker/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Kartik-bhasker/Leetcode/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Kartik-bhasker/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Kartik-bhasker/Leetcode/tree/master/0204-count-primes) |
 | [1952-three-divisors](https://github.com/Kartik-bhasker/Leetcode/tree/master/1952-three-divisors) |
 | [2427-number-of-common-factors](https://github.com/Kartik-bhasker/Leetcode/tree/master/2427-number-of-common-factors) |
 | [2951-find-the-peaks](https://github.com/Kartik-bhasker/Leetcode/tree/master/2951-find-the-peaks) |
@@ -518,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Kartik-bhasker/Leetcode/tree/master/0204-count-primes) |
 | [1492-the-kth-factor-of-n](https://github.com/Kartik-bhasker/Leetcode/tree/master/1492-the-kth-factor-of-n) |
 | [1952-three-divisors](https://github.com/Kartik-bhasker/Leetcode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Kartik-bhasker/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -532,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sieve Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Kartik-bhasker/Leetcode/tree/master/0204-count-primes) |
 | [1390-four-divisors](https://github.com/Kartik-bhasker/Leetcode/tree/master/1390-four-divisors) |
 | [1952-three-divisors](https://github.com/Kartik-bhasker/Leetcode/tree/master/1952-three-divisors) |
 ## Recursion
@@ -551,4 +556,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Kartik-bhasker/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2427-number-of-common-factors](https://github.com/Kartik-bhasker/Leetcode/tree/master/2427-number-of-common-factors) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Kartik-bhasker/Leetcode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Kartik-bhasker/Leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
