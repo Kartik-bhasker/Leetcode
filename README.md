@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Kartik-bhasker/Leetcode/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2413-smallest-even-multiple](https://github.com/Kartik-bhasker/Leetcode/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/Kartik-bhasker/Leetcode/tree/master/2427-number-of-common-factors) |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Kartik-bhasker/Leetcode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2469-convert-the-temperature](https://github.com/Kartik-bhasker/Leetcode/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Kartik-bhasker/Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Kartik-bhasker/Leetcode/tree/master/2769-find-the-maximum-achievable-number) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/Kartik-bhasker/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Kartik-bhasker/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Kartik-bhasker/Leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Kartik-bhasker/Leetcode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Kartik-bhasker/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2951-find-the-peaks](https://github.com/Kartik-bhasker/Leetcode/tree/master/2951-find-the-peaks) |
 | [3467-transform-array-by-parity](https://github.com/Kartik-bhasker/Leetcode/tree/master/3467-transform-array-by-parity) |
