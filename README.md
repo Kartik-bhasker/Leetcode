@@ -419,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Kartik-bhasker/Leetcode/tree/master/0342-power-of-four) |
 | [0476-number-complement](https://github.com/Kartik-bhasker/Leetcode/tree/master/0476-number-complement) |
 | [0645-set-mismatch](https://github.com/Kartik-bhasker/Leetcode/tree/master/0645-set-mismatch) |
+| [1009-complement-of-base-10-integer](https://github.com/Kartik-bhasker/Leetcode/tree/master/1009-complement-of-base-10-integer) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Kartik-bhasker/Leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 ## Heap (Priority Queue)
 |  |
