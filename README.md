@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Kartik-bhasker/Leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Kartik-bhasker/Leetcode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Kartik-bhasker/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/Kartik-bhasker/Leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2951-find-the-peaks](https://github.com/Kartik-bhasker/Leetcode/tree/master/2951-find-the-peaks) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Kartik-bhasker/Leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3467-transform-array-by-parity](https://github.com/Kartik-bhasker/Leetcode/tree/master/3467-transform-array-by-parity) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kartik-bhasker/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/Kartik-bhasker/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/Kartik-bhasker/Leetcode/tree/master/1748-sum-of-unique-elements) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/Kartik-bhasker/Leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Kartik-bhasker/Leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3668-restore-finishing-order](https://github.com/Kartik-bhasker/Leetcode/tree/master/3668-restore-finishing-order) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Kartik-bhasker/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -434,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-xor-operation-in-an-array](https://github.com/Kartik-bhasker/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Kartik-bhasker/Leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Kartik-bhasker/Leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/Kartik-bhasker/Leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Kartik-bhasker/Leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Heap (Priority Queue)
 |  |
@@ -590,4 +593,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Kartik-bhasker/Leetcode/tree/master/0204-count-primes) |
+## Trie
+|  |
+| ------- |
+| [2932-maximum-strong-pair-xor-i](https://github.com/Kartik-bhasker/Leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
+## Sliding Window
+|  |
+| ------- |
+| [2932-maximum-strong-pair-xor-i](https://github.com/Kartik-bhasker/Leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
 <!---LeetCode Topics End-->
