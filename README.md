@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Kartik-bhasker/Leetcode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Kartik-bhasker/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2951-find-the-peaks](https://github.com/Kartik-bhasker/Leetcode/tree/master/2951-find-the-peaks) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Kartik-bhasker/Leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3467-transform-array-by-parity](https://github.com/Kartik-bhasker/Leetcode/tree/master/3467-transform-array-by-parity) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Kartik-bhasker/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/Kartik-bhasker/Leetcode/tree/master/3668-restore-finishing-order) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kartik-bhasker/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/Kartik-bhasker/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/Kartik-bhasker/Leetcode/tree/master/1748-sum-of-unique-elements) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Kartik-bhasker/Leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3668-restore-finishing-order](https://github.com/Kartik-bhasker/Leetcode/tree/master/3668-restore-finishing-order) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Kartik-bhasker/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3945-digit-frequency-score](https://github.com/Kartik-bhasker/Leetcode/tree/master/3945-digit-frequency-score) |
@@ -430,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Kartik-bhasker/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Kartik-bhasker/Leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Kartik-bhasker/Leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Kartik-bhasker/Leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
