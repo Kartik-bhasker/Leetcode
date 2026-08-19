@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/Kartik-bhasker/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Kartik-bhasker/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/Kartik-bhasker/Leetcode/tree/master/1672-richest-customer-wealth) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Kartik-bhasker/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1732-find-the-highest-altitude](https://github.com/Kartik-bhasker/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1748-sum-of-unique-elements](https://github.com/Kartik-bhasker/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Kartik-bhasker/Leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/Kartik-bhasker/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kartik-bhasker/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/Kartik-bhasker/Leetcode/tree/master/1512-number-of-good-pairs) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Kartik-bhasker/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1748-sum-of-unique-elements](https://github.com/Kartik-bhasker/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Kartik-bhasker/Leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Kartik-bhasker/Leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/Kartik-bhasker/Leetcode/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kartik-bhasker/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/Kartik-bhasker/Leetcode/tree/master/1512-number-of-good-pairs) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Kartik-bhasker/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Kartik-bhasker/Leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1748-sum-of-unique-elements](https://github.com/Kartik-bhasker/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [3467-transform-array-by-parity](https://github.com/Kartik-bhasker/Leetcode/tree/master/3467-transform-array-by-parity) |
@@ -409,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Kartik-bhasker/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1668-maximum-repeating-substring](https://github.com/Kartik-bhasker/Leetcode/tree/master/1668-maximum-repeating-substring) |
 | [1678-goal-parser-interpretation](https://github.com/Kartik-bhasker/Leetcode/tree/master/1678-goal-parser-interpretation) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Kartik-bhasker/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Kartik-bhasker/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Kartik-bhasker/Leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1768-merge-strings-alternately](https://github.com/Kartik-bhasker/Leetcode/tree/master/1768-merge-strings-alternately) |
@@ -442,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1009-complement-of-base-10-integer](https://github.com/Kartik-bhasker/Leetcode/tree/master/1009-complement-of-base-10-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Kartik-bhasker/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/Kartik-bhasker/Leetcode/tree/master/1486-xor-operation-in-an-array) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Kartik-bhasker/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Kartik-bhasker/Leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Kartik-bhasker/Leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Kartik-bhasker/Leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
