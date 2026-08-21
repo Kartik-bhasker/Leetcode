@@ -10,19 +10,11 @@
  */
 class Solution {
     public int getDecimalValue(ListNode head) {
-        String ans="";
+        int num=0;
         ListNode temp=head;
         while(temp!=null){
-            ans+=temp.val;
+            num=num*2+temp.val;
             temp=temp.next;
-        }
-        //bin to decimal
-        int len=ans.length();int num=0;int p2=1;
-        for(int i=len-1;i>=0;i--){
-            if(ans.charAt(i)=='1'){
-                num=num+p2;
-            }
-            p2=p2*2;
         }
         return num;
     }
