@@ -592,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Kartik-bhasker/Leetcode/tree/master/0050-powx-n) |
+| [0203-remove-linked-list-elements](https://github.com/Kartik-bhasker/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/Kartik-bhasker/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Kartik-bhasker/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Kartik-bhasker/Leetcode/tree/master/0342-power-of-four) |
@@ -624,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/Kartik-bhasker/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Kartik-bhasker/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Kartik-bhasker/Leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 <!---LeetCode Topics End-->
